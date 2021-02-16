@@ -1,0 +1,104 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color:#000;
+    display: flex;
+    justify-content:center ;
+}
+h2{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content:center ;
+
+
+}
+.head{
+        color: rgb(255, 255, 255);
+        border:solid;
+        display: flex;
+        justify-content:center ;
+    
+}
+.camel{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.chamen{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+
+}
+.pigion{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+
+}
+.teddy{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+
+}
+.cicada{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+
+}
+.panda{
+    color:#ffffff;
+    background-color:#ffffff;
+    border:solid;
+    display: flex;
+    flex-direction: column;
+}
+
+.diva{
+    color:#ffffff;
+    border:solid;
+    display: flex;
+    justify-content:space-around ;
+
+}
+.divb{
+    color: rgb(255, 255, 255);
+    border:solid;
+    display: flex;
+    justify-content:space-around ;
+
+}
+
+.orgi{
+    color: rgb(255, 255, 255);
+    background-image:url("backgroundimg.png");
+ 
+
+}
+
+.org{
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+
+}
+p{
+    color: darkturquoise;
+}
+body{
+    color: #000;
+    border: solid;
+}
